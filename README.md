@@ -47,6 +47,19 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vazejeet&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Jeet Vaze's GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vazejeet&show_icons=true&theme=react&hide_border=true" alt="Jeet Vaze's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazejeet&layout=compact&theme=react&hide_border=true" alt="Top languages"/>
+</p>
+
+
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
