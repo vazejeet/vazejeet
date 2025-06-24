@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Flutter Developer** at Saavi Infinet Pvt. Ltd.  
+- 🔭 I’m currently working as a **Flutter Developer**  
 - 🌱 I have **1+ year of hands-on experience** building cross-platform mobile apps using **Flutter & Dart**.  
 - 💡 I enjoy crafting **clean UI**, building **scalable apps**, and solving real-world problems.  
-- ⚡ I have built apps with **REST APIs, local storage, state management (GetX)** and more.  
+- ⚡ I have built apps with **REST APIs, local storage, state management (GetX), App Deployment** and more.  
 - 🏠 Based in **Vasai, Maharashtra**  
 - 📫 Reach me at: **vazejeet016@gmail.com**  
 - 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/jeetvaze16)
